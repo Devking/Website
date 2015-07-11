@@ -1,0 +1,43 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Vollkorn', serif;
+	background: url(bg.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 100%;
+	min-height: 410px;
+}
+
+#content {
+	margin: 0;
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 556px;
+	font-size: 18px;
+	background:rgba(0,0,0,0.5);
+	color: white;
+	text-align: center;
+
+	position: relative;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+p {
+	text-align: justify;
+}
+
+a {
+	text-decoration: none;
+	color: yellow;
+}
+
+a:hover {
+	color: white;
+}

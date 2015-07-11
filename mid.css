@@ -1,0 +1,42 @@
+#header {
+	width: 90%;
+}
+
+#nav {
+	width: 90%;
+}
+
+.photo {
+	width: 90%;
+	max-width: 90%;
+}
+
+.photo img {
+    max-width: 90%;
+}
+
+#footer {
+	width: 90%;
+}
+
+#header img {
+	margin-bottom: 5px;
+}
+
+#info {
+	padding-left: 80px;
+	padding-top: 20px;
+}
+
+#lowercontainer {
+	padding-top: 20px;
+	margin: 0px;
+	width: auto;
+}
+
+.content {
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	width: 750px;
+}

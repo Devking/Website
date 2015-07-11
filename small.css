@@ -1,0 +1,45 @@
+#header {
+	width: 90%;
+	text-align: center;
+}
+
+#header h1 {
+	font-size: 48px;
+}
+
+#header h2 {
+	font-size: 36px;
+}
+
+#title {
+	clear: both;
+}
+
+.content {
+	padding-left: 10px;
+	width: 90%;
+}
+
+.content h1 {
+	font-size: 32px;
+}
+
+.content h2 {
+	font-size: 24px;
+}
+
+#title {
+	float: none;
+}
+
+#info {
+	display: none;
+}
+
+#smallinfo {
+	display: block;
+}
+
+#lowercontainer {
+	padding-top: 20px;
+}
