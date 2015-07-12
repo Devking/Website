@@ -2,7 +2,7 @@ $(function(){
 			var choice = Math.floor(Math.random()*3);
 
 			if (choice == 1) {
-				$("#avatar").html('<a href="http://www.wellssanto.com"><img src="AvatarResized.png" style="width: 150px; height: 150px;" alt="Me" />');
+				$("#avatar").html('<a href="http://www.wellssanto.com"><img src="/images/AvatarResizedmin.png" style="width: 150px; height: 150px;" alt="Me" />');
 			}
 			//setInterval(changeImage, 5000);
 		});

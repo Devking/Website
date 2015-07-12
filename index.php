@@ -14,32 +14,31 @@
 	<link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
 	<link rel="shortcut icon" href="http://www.ultimata.net/favicon.png" />
 
-	<link rel="stylesheet" href="buttons.css" />
-	<link rel="stylesheet" href="style.css" />
-	<link rel="stylesheet" media="screen and (max-width: 1020px)" href="mid.css" />
-	<link rel="stylesheet" media="screen and (max-width: 800px)" href="small.css" />
-	<link rel="stylesheet" media="screen and (max-width: 480px)" href="mobile.css" />
+	<link rel="stylesheet" href="css/buttons.css" />
+	<link rel="stylesheet" href="css/style.css" />
+	<link rel="stylesheet" media="screen and (max-width: 1020px)" href="css/mid.css" />
+	<link rel="stylesheet" media="screen and (max-width: 800px)" href="css/small.css" />
+	<link rel="stylesheet" media="screen and (max-width: 480px)" href="css/mobile.css" />
 
-	<script src="jquery-1.11.2.min.js"></script>
-
-	<script src="avatarchange.js"></script>
+	<script src="js/jquery-1.11.2.min.js"></script>
+	<script src="js/avatarchange.js"></script>
 
 </head>
 <body>
 
 	<div id="header">
 
-		<div id="avatar"><a href="http://www.wellssanto.com"><img src="Avatar2Resized.png" style="width: 150px; height: 150px;" alt="Me" /></a></div>
+		<div id="avatar"><a href="http://www.wellssanto.com"><img src="images/Avatar2Resized.png" style="width: 150px; height: 150px;" alt="Me" /></a></div>
 
 		<div id="links">
-			<a href="https://www.facebook.com/theonlyDevking" target="_blank"><img src="facebookicon.png" alt="Facebook" style="width: 40px; height: 40px;" class="fblink" /></a>
-			<a href="https://twitter.com/theonlyDevking" target="_blank"><img src="twittericon.png" alt="Twitter" style="width: 40px; height: 40px;" id="twlink" /></a>
-			<a href="http://awaterfallsunset.tumblr.com/" target="_blank"><img src="tumblricon.png" alt="Tumblr" style="width: 40px; height: 40px;" id="tulink"/></a>
-			<a href="http://instagram.com/awaterfallsunset" target="_blank"><img src="instaicon.png" alt="Instagram" style="width: 40px; height: 40px;" id="inlink"/></a>
+			<a href="https://www.facebook.com/theonlyDevking" target="_blank"><img src="images/facebookicon.png" alt="Facebook" style="width: 40px; height: 40px;" class="fblink" /></a>
+			<a href="https://twitter.com/theonlyDevking" target="_blank"><img src="images/twittericon.png" alt="Twitter" style="width: 40px; height: 40px;" id="twlink" /></a>
+			<a href="http://awaterfallsunset.tumblr.com/" target="_blank"><img src="images/tumblricon.png" alt="Tumblr" style="width: 40px; height: 40px;" id="tulink"/></a>
+			<a href="http://instagram.com/awaterfallsunset" target="_blank"><img src="images/instaicon.png" alt="Instagram" style="width: 40px; height: 40px;" id="inlink"/></a>
 			<span style="white-space: nowrap;">
-			<a href="https://soundcloud.com/devking" target="_blank"><img src="soundicon.png" alt="Soundcloud" style="width: 40px; height: 40px;" id="solink"/></a>
-			<a href="https://github.com/Devking" target="_blank"><img src="githubicon.png" alt="GitHub" style="width: 40px; height: 40px;" id="ghlink" /></a>
-			<a href="http://www.linkedin.com/pub/wells-lucas-santo/34/53b/175" target="_blank"><img src="linkedicon.png" alt="LinkedIn" style="width: 40px; height: 40px;" id="lilink"/></a>
+			<a href="https://soundcloud.com/devking" target="_blank"><img src="images/soundicon.png" alt="Soundcloud" style="width: 40px; height: 40px;" id="solink"/></a>
+			<a href="https://github.com/Devking" target="_blank"><img src="images/githubicon.png" alt="GitHub" style="width: 40px; height: 40px;" id="ghlink" /></a>
+			<a href="http://www.linkedin.com/pub/wells-lucas-santo/34/53b/175" target="_blank"><img src="images/linkedicon.png" alt="LinkedIn" style="width: 40px; height: 40px;" id="lilink"/></a>
 			</span>
 		</div>
 
